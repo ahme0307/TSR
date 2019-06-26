@@ -8,12 +8,10 @@ The main objective of the paper is, to increase the frame rate to the gold stand
 consideration both motion estimation and intermediate frame intensity interpolation using the surrounding frames. The proposed formulation
 incorporates both pixel intensity and texture feature in the optical flow objective function such that the interpolation at the intermediate frame is directly
 modeled. 
+![alt text](https://github.com/ahme0307/TSR/blob/master/readme/featuremap.png)
 
 ## Sample result
-
-
-## Sample video result
-
+![alt text](https://github.com/ahme0307/TSR/blob/master/readme/fig3.png)
 
 ## How to run
 
